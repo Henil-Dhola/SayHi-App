@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25847499652",
+    "firebase_url": "https://sayhi-messenger-default-rtdb.firebaseio.com",
+    "project_id": "sayhi-messenger",
+    "storage_bucket": "sayhi-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25847499652:android:b1305dc260cffc2ba02bd1",
+        "android_client_info": {
+          "package_name": "com.group_project.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25847499652-f9fg2nvjpsdn9boo0le41b136gas7kkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group_project.chatapplication",
+            "certificate_hash": "382929f13749105457df1274e28f9370fe9ddd46"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7v1Pk57Vpl7QcHU5KXtbmSHtqcK7n11I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
